@@ -99,7 +99,9 @@ streamlit run app.py
 ---
 # Screenshots
 <img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/e212666e-4a7c-4944-9a8a-3673a428494b" />
+
 <img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/70ee509c-ecc4-4aec-b508-3f5c0bfecfa3" />
+
 <img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/bda7c40d-e7d4-44fe-860f-fa085dc868e8" />
 
 
