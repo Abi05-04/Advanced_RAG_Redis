@@ -1,11 +1,5 @@
-# Advanced_RAG_Redis
-
 # 🚀 Advanced RAG with Reranker & TTL Cache using Redis
-
-## 👩‍💻 Author  
-Abinaya Duraisamy  
-
----
+ 
 
 ## 📌 Project Overview  
 This project implements an Advanced Retrieval-Augmented Generation (RAG) system designed to deliver accurate, fast, and context-aware answers.
